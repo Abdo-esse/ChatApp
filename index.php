@@ -65,6 +65,8 @@
                     <a href="#" class="text-white hover:text-custom-green">Accueil</a>
                     <a href="#about" class="text-white hover:text-custom-green">À propos</a>
                     <a href="#contact" class="text-white hover:text-custom-green">Contact</a>
+                    <a href="#contact" class="text-white hover:text-custom-green">log-in</a>
+                    <a href="#contact" class="text-white hover:text-custom-green">Sign-in</a>
                     <button id="theme-toggle" class="px-4 py-2 bg-custom-green text-white rounded-lg hover:bg-opacity-80 transition duration-300">
                         Basculer le mode
                     </button>
